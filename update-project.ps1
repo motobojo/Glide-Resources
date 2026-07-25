@@ -1,6 +1,6 @@
 # 1. describe changes in this update
 
-$updateDescription = '"create project and baseline index file"'
+$updateDescription = '"add some bits to index.htm"'
 
 
 # note: to run copy this and paste into PowerShell prompt
